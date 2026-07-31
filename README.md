@@ -1,12 +1,11 @@
 # VolunteerForFood
 
 <p align="center">
-  <img src="docs/assets/volunteerforfood-hero.png" alt="Illustration of volunteers supporting a community meal programme" width="900">
+  A volunteering-awareness website that introduces The Akshaya Patra Foundation's mission and ways people can support it.
 </p>
+## Disclaimer
 
-<p align="center">
-  A static volunteering-awareness website that introduces The Akshaya Patra Foundation's mission and ways people can support it.
-</p>
+This repository is presented as an educational front-end project. Organisation names, programme information, contact details, and external links are retained from the supplied source material. The repository does not state or imply official affiliation or endorsement.
 
 <p align="center">
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
@@ -68,62 +67,6 @@ For a more detailed page map and technical view, see [docs/application-flow.md](
 | Typography | Google Fonts: Montserrat and Ubuntu |
 | Downloadable resource | Microsoft Word `.docx` form |
 
-## Project structure
-
-```text
-VolunteerForFood/
-├── index.html
-├── online-supporter.html
-├── blogging.html
-├── online-fundraising.html
-├── social-media.html
-├── Volunteering-Request-Form.docx
-├── css/
-│   └── styles.css
-├── images/
-│   └── ...
-└── docs/
-    ├── application-flow.md
-    ├── assets/
-    └── screenshots/
-```
-
-## Run locally
-
-No installation or build step is required.
-
-1. Download or clone the repository.
-2. Open a terminal in the project folder.
-3. Start a simple local web server:
-
-   ```bash
-   python3 -m http.server 8000
-   ```
-
-4. Visit `http://localhost:8000` in a browser.
-
-Opening `index.html` directly also works for most content, but a local server provides behavior closer to normal web hosting.
-
-## Page guide
-
-| File | Purpose |
-| --- | --- |
-| `index.html` | Main landing page, organisation overview, carousels, volunteering links, form download, and contact details |
-| `online-supporter.html` | Describes online advocacy activities |
-| `blogging.html` | Describes blogging as a volunteering option |
-| `online-fundraising.html` | Describes online fundraising participation |
-| `social-media.html` | Describes social-media volunteering activities |
-| `Volunteering-Request-Form.docx` | Blank request form intended to be completed offline |
-
-## Visual design
-
-The original interface uses a soft, community-oriented palette:
-
-| Colour | Hex | Use in the supplied design |
-| --- | --- | --- |
-| Sage green | `#BFD8B8` | Primary page background |
-| Warm beige | `#E5DCC3` | Supporting section tone |
-| Muted blue | `#6B7AA1` | Text and visual accents |
 
 ## Current limitations
 
@@ -133,10 +76,9 @@ The original interface uses a soft, community-oriented palette:
 - Bootstrap, Font Awesome, and Google Fonts require internet access because they are loaded from external CDNs.
 - Organisation details and contact information reflect the supplied repository snapshot and should be verified before a public deployment.
 
-## Repository integrity
+<p align="center">
+  <img src="docs/assets/volunteerforfood-hero.png" alt="Illustration of volunteers supporting a community meal programme" width="900">
+</p>
 
-The application pages, styles, images, downloadable form, wording, branding, and links are preserved from the supplied project. This GitHub-ready edition adds documentation and preview material only; it does not change the application code or claim functionality that is not present.
 
-## Disclaimer
 
-This repository is presented as an educational front-end project. Organisation names, programme information, contact details, and external links are retained from the supplied source material. The repository does not state or imply official affiliation or endorsement.
