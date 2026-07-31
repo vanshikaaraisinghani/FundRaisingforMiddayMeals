@@ -3,6 +3,7 @@
 <p align="center">
   A volunteering-awareness website that introduces The Akshaya Patra Foundation's mission and ways people can support it.
 </p>
+
 ## Disclaimer
 
 This repository is presented as an educational front-end project. Organisation names, programme information, contact details, and external links are retained from the supplied source material. The repository does not state or imply official affiliation or endorsement.
