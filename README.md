@@ -1,8 +1,7 @@
 # VolunteerForFood
 
-<p align="center">
-  A volunteering-awareness website that introduces The Akshaya Patra Foundation's mission and ways people can support it.
-</p>
+A volunteering-awareness website that introduces The Akshaya Patra Foundation's mission and ways people can support it.
+
 
 ## Disclaimer
 
