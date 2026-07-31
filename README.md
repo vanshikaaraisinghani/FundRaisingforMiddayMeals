@@ -18,7 +18,7 @@ This repository is presented as an educational front-end project. Organisation n
 
 VolunteerForFood is a front-end informational website focused on food-support volunteering. It presents The Akshaya Patra Foundation's work, meal programme, recognitions, volunteering options, contact details, and a downloadable volunteering request form.
 
-The project is intentionally lightweight: it uses static HTML and CSS, with Bootstrap components supplied through a CDN. It does not include a database, login system, server-side processing, or an online form-submission backend.
+The project uses static HTML and CSS, with Bootstrap components supplied through a CDN. It does not include a database, login system, server-side processing, or an online form-submission backend.
 
 ## Preview
 
